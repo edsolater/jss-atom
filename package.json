@@ -1,0 +1,22 @@
+{
+  "name": "jss-atom",
+  "version": "1.0.0",
+  "description": "like tailwindcss but create rules in run-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsolater/jss-atom.git"
+  },
+  "author": "edsolater <edsolater@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsolater/jss-atom/issues"
+  },
+  "homepage": "https://github.com/edsolater/jss-atom#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
